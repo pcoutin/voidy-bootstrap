@@ -80,7 +80,7 @@ The following should be set in ``pelicanconf.py``::
           ('LinkedIn', 'http://linkedin-url', 
            'fab fa-linkedin fa-fw fa-lg'),
           ('BitBucket', 'http://bitbucket.org/username', 
-           'fa fa-bitbucket-square fa-fw fa-lg'),
+           'fab fa-bitbucket fa-fw fa-lg'),
           ('GitHub', 'http://github.com/username',
            'fab fa-github-square fa-fw fa-lg'),
           )
